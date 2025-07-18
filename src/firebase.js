@@ -11,13 +11,13 @@ import { toast } from "react-toastify";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyArGoJ6ldN-F29exLY_bu75kR_-Q4bJvwk",
-  authDomain: "netflix-clone-3879f.firebaseapp.com",
-  projectId: "netflix-clone-3879f",
-  storageBucket: "netflix-clone-3879f.firebasestorage.app",
-  messagingSenderId: "183955832093",
-  appId: "1:183955832093:web:436619e9c7b6535c38b5f4",
-  measurementId: "G-N8P0YJ8N8X"
+  apiKey: "A...k",
+  authDomain: "netf...com",
+  projectId: "netf...",
+  storageBucket: "netf...app",
+  messagingSenderId: "1...3",
+  appId: "1....4",
+  measurementId: "G...X"
 };
 
 // Initialize Firebase
